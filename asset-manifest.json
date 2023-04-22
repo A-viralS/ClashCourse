@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ClashCourse/static/css/main.d7d2a646.css",
+    "main.js": "/ClashCourse/static/js/main.910d1172.js",
+    "static/js/227.af29dccc.chunk.js": "/ClashCourse/static/js/227.af29dccc.chunk.js",
+    "static/js/526.abe5996a.chunk.js": "/ClashCourse/static/js/526.abe5996a.chunk.js",
+    "static/js/232.0ef8c466.chunk.js": "/ClashCourse/static/js/232.0ef8c466.chunk.js",
+    "static/js/237.3a708956.chunk.js": "/ClashCourse/static/js/237.3a708956.chunk.js",
+    "static/js/787.fe311442.chunk.js": "/ClashCourse/static/js/787.fe311442.chunk.js",
+    "static/media/dsa_udemy.webp": "/ClashCourse/static/media/dsa_udemy.9d6919aa07a8b5ce2195.webp",
+    "static/media/dsa_coursera.jpeg": "/ClashCourse/static/media/dsa_coursera.11d35452486c0cc43a0f.jpeg",
+    "static/media/dsa_gfg.png": "/ClashCourse/static/media/dsa_gfg.8c13886eb158839ce19c.png",
+    "static/media/logo.svg": "/ClashCourse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ClashCourse/index.html",
+    "main.d7d2a646.css.map": "/ClashCourse/static/css/main.d7d2a646.css.map",
+    "main.910d1172.js.map": "/ClashCourse/static/js/main.910d1172.js.map",
+    "227.af29dccc.chunk.js.map": "/ClashCourse/static/js/227.af29dccc.chunk.js.map",
+    "526.abe5996a.chunk.js.map": "/ClashCourse/static/js/526.abe5996a.chunk.js.map",
+    "232.0ef8c466.chunk.js.map": "/ClashCourse/static/js/232.0ef8c466.chunk.js.map",
+    "237.3a708956.chunk.js.map": "/ClashCourse/static/js/237.3a708956.chunk.js.map",
+    "787.fe311442.chunk.js.map": "/ClashCourse/static/js/787.fe311442.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d2a646.css",
+    "static/js/main.910d1172.js"
+  ]
+}
